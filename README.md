@@ -1,3 +1,31 @@
+# 1.1helloworld
+
+运行结果：
+
+![](https://github.com/wjswxx/layout/blob/master/ing/%E5%9B%BE%E7%89%872.png)
+
+代码：
+
+```
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+
+    <TextView
+        android:layout_width="147dp"
+        android:layout_height="257dp"
+        android:text="Hello "
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintRight_toRightOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+</android.support.constraint.ConstraintLayout>
+···
 # 2.1利用线性布局
 
 运行结果：
