@@ -135,7 +135,7 @@
 
 运行结果：
 
-![](https://github.com/wjswxx/layout/blob/master/ing/%E5%9B%BE%E7%89%872.png)
+![](https://github.com/wjswxx/layout/blob/master/ing/%E5%9B%BE%E7%89%874.png)
 
 代码：
 
